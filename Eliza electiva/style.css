@@ -1,0 +1,18 @@
+tabla{
+    width: 100%; /* hace que la tabla ocupe todo el ancho de la pagina */
+    margin: 20px; /* margenes de la tabla*/
+}
+body{
+background-color: bisque;
+}
+body{
+    background-color: blueviolet;
+}
+th td{
+    padding: 10px;/* relleno dentro de las celdas*/
+    text-align: left; /* alinea el texto a la izquierda*/
+    border: 1px solid black;
+}
+th{
+    background-color: blue; /* fondo para el encabezado */
+}
