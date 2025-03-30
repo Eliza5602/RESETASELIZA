@@ -59,7 +59,7 @@
             <li>Disfritar de una piza casera de hauwayana</li>
         </ol>
         <center><h1>Arroz con pollo</h1></center>
-        <img src="Arroz con pollo.jpg" alt="Arroz">
+        <img src="Eliza electiva/Arroz con pollo.jpg" alt="Arroz">
         <h1>Ingredientes</h1>
         <UL>
             <li>Arroz</li>
